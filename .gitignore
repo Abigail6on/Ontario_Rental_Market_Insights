@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+ODA_ON_v1/ODA_ON_v1.csv
