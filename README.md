@@ -30,3 +30,9 @@ This repository serves as **Phase 1 (The Foundation)** of my rental market resea
 * **Analysis:** Pandas, NumPy
 * **Visualization:** Matplotlib, Seaborn
 * **Source Data:** Zumper (Leasing Listings)
+
+## 🚀 Future Evolution
+While this project analyzed **current** listing prices, the logic has been evolved into a predictive model in my subsequent project, where I use macro-economic indicators (Interest Rates, Population Growth) to forecast **future** prices using XGBoost.
+
+---
+*Author: Abigail6on*
